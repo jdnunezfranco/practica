@@ -1,8 +1,5 @@
 # Redux BLOG APP
 
--- NODE_OPTIONS=--openssl-legacy-provider npm run start,
--- NODE_OPTIONS=--openssl-legacy-provider npm run build
-
 En este ejercicio vamos a crear una APP que utilice la API de [JSONPlaceholder](https://jsonplaceholder.typicode.com/). Vamos a crear nuestra app utilizando __REACT__ y __REDUX__.
 
 Con tu App podremos:
